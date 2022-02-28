@@ -1,0 +1,7 @@
+D:\Kussa Richárd\Érettségi\Hiányzások\hianyzasok\hianyzasok\hianyzasok\bin\Debug\hianyzasok.exe.config
+D:\Kussa Richárd\Érettségi\Hiányzások\hianyzasok\hianyzasok\hianyzasok\bin\Debug\hianyzasok.exe
+D:\Kussa Richárd\Érettségi\Hiányzások\hianyzasok\hianyzasok\hianyzasok\bin\Debug\hianyzasok.pdb
+D:\Kussa Richárd\Érettségi\Hiányzások\hianyzasok\hianyzasok\hianyzasok\obj\Debug\hianyzasok.csprojAssemblyReference.cache
+D:\Kussa Richárd\Érettségi\Hiányzások\hianyzasok\hianyzasok\hianyzasok\obj\Debug\hianyzasok.csproj.CoreCompileInputs.cache
+D:\Kussa Richárd\Érettségi\Hiányzások\hianyzasok\hianyzasok\hianyzasok\obj\Debug\hianyzasok.exe
+D:\Kussa Richárd\Érettségi\Hiányzások\hianyzasok\hianyzasok\hianyzasok\obj\Debug\hianyzasok.pdb
